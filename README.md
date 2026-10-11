@@ -24,3 +24,10 @@ previous upload.
 `fredoka-latin.woff2` is Fredoka (variable, 300-700), Latin subset, as served
 by Google Fonts. It is the theme's English face ('Nulla EN'). SIL Open Font
 License 1.1, see `OFL-Fredoka.txt`.
+
+## Top sizes (v4)
+
+`tea-banner-4005.webp`, `allulose-wide-3840.webp` and `allulose-mobile-3072.webp`
+are the full-resolution top steps of each srcset, re-encoded (WebP q86) from
+the originals: same pixels a 2x/4K screen needs, a fifth to a third of the
+weight. The untouched originals stay in the repo as masters.
