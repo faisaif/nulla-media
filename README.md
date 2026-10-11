@@ -18,3 +18,9 @@ and big screens still get the full-resolution original. `hero-phone.mp4` is
 the phone hero video re-encoded from the tall master at the same 1080x1920
 (H.264, CRF 30): about a third lighter, same measured quality as the
 previous upload.
+
+## Fonts (v3)
+
+`fredoka-latin.woff2` is Fredoka (variable, 300-700), Latin subset, as served
+by Google Fonts. It is the theme's English face ('Nulla EN'). SIL Open Font
+License 1.1, see `OFL-Fredoka.txt`.
